@@ -536,7 +536,7 @@ a:hover, a:active {
     left: 9px;
     margin: auto;
     width: 1px;
-    height: 95%;
+    height: calc(100% - 30px);
     background-color: #cacdd6;
     z-index: -1;
 }

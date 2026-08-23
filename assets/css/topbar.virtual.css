@@ -176,7 +176,7 @@
   left: 0;
   margin: auto;
   width: 2px;
-  height: 95%;
+  height: calc(100% - 50px);
   background-color: #e3e5e9;
 }
 
